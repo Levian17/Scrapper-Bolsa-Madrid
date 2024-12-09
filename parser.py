@@ -18,7 +18,7 @@ def cleanse_data(path_raw_data: str = "output/raw_data.txt") -> list[list[str]]:
 
     clean_data = []
     for x in range(0, len(raw_data)-7, 7):
-        clean_data.append([raw_data[x], raw_data[x+1], raw_data[x+2], raw_data[x+3], raw_data[x+4], raw_data[x+5]])
+        clean_data.append([raw_data[x+1], raw_data[x+2], raw_data[x+3], raw_data[x+4], raw_data[x+5]])
 
     return clean_data
 
@@ -34,11 +34,11 @@ def parse_data_to_dataframe(clean_data: list[list[str]]) -> pd.DataFrame:
     }
 
     for stock in clean_data:
-        data_dict["Abreviatura"].append(stock[1])
-        data_dict["Nombre Empresa"].append(stock[2])
-        data_dict["Valor Total"].append(stock[3])
-        data_dict["Precio Stock"].append(stock[4])
-        data_dict["Delta Valor"].append(stock[5])
+        data_dict["Abreviatura"].append(stock[0])
+        data_dict["Nombre Empresa"].append(stock[1])
+        data_dict["Valor Total"].append(stock[2])
+        data_dict["Precio Stock"].append(stock[3])
+        data_dict["Delta Valor"].append(stock[4])
 
     df = pd.DataFrame(data_dict)
     return df

@@ -1,0 +1,148 @@
+,Abreviatura,Nombre Empresa,Valor Total,Precio Stock,Delta Valor
+0,ITX,"Industria de Diseño Textil, S.A.",173.87B,55.82,0.07%
+1,AIR,Airbus SE,122.65B,155.58,-0.08%
+2,IBE,"Iberdrola, S.A.",83.06B,13.45,-0.48%
+3,SAN,"Banco Santander, S.A.",70.46B,4.64,-0.79%
+4,BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",55.06B,9.55,-0.81%
+5,CABK,"CaixaBank, S.A.",38.70B,5.36,-0.74%
+6,AENA,"Aena S.M.E., S.A.",30.60B,204.00,-0.58%
+7,AMS,"Amadeus IT Group, S.A.",30.50B,70.00,-0.06%
+8,FER,Ferrovial SE,29.84B,41.00,
+9,TEF,"Telefónica, S.A.",24.46B,4.34,
+10,CLNX,"Cellnex Telecom, S.A.",23.92B,33.90,-0.91%
+11,ELE,"Endesa, S.A.",22.61B,21.36,-0.51%
+12,NTGY,"Naturgy Energy Group, S.A.",22.60B,23.52,0.09%
+13,MTS,ArcelorMittal S.A.,18.97B,24.14,0.42%
+14,IAG,International Consolidated Airlines Group S.A.,16.68B,3.42,0.21%
+15,REP,"Repsol, S.A.",13.29B,11.29,-0.44%
+16,ACS,"ACS, Actividades de Construcción y Servicios, S.A.",12.22B,48.00,-0.04%
+17,PUIG,"Puig Brands, S.A.",10.70B,18.99,-3.51%
+18,SAB,"Banco de Sabadell, S.A.",10.25B,1.90,-1.45%
+19,RED,"Redeia Corporación, S.A.",9.15B,16.95,-0.88%
+20,MAP,"Mapfre, S.A.",7.68B,2.51,-1.73%
+21,BKT,"Bankinter, S.A.",6.97B,7.76,-0.49%
+22,ANE,"Corporación Acciona Energías Renovables, S.A.",6.49B,20.00,2.51%
+23,ANA,"Acciona, S.A.",6.44B,118.30,0.77%
+24,MRL,"MERLIN Properties SOCIMI, S.A.",5.91B,10.51,0.77%
+25,GRF,"Grifols, S.A.",5.39B,8.63,-1.21%
+26,FDR,"Fluidra, S.A.",4.88B,25.68,2.23%
+27,GCO,"Grupo Catalana Occidente, S.A.",4.41B,37.40,-1.19%
+28,FCC,"Fomento de Construcciones y Contratas, S.A.",4.22B,9.28,0.54%
+29,LOG,"Logista Integral, S.A.",3.96B,30.02,-0.46%
+30,ENG,"Enagás, S.A.",3.39B,13.00,-0.76%
+31,COL,"Inmobiliaria Colonial, SOCIMI, S.A.",3.39B,5.48,1.86%
+32,UNI,"Unicaja Banco, S.A.",3.30B,1.30,-0.84%
+33,ROVI,"Laboratorios Farmaceuticos Rovi, S.A.",3.25B,63.60,-0.24%
+34,VID,"Vidrala, S.A.",3.21B,96.10,0.21%
+35,CIE,"CIE Automotive, S.A.",3.07B,25.60,
+36,IDR,"Indra Sistemas, S.A.",3.04B,17.21,0.12%
+37,VIS,"Viscofan, S.A.",2.87B,61.70,
+38,ALB,"Corporación Financiera Alba, S.A.",2.86B,47.80,0.63%
+39,ACX,"Acerinox, S.A.",2.49B,9.98,0.60%
+40,EBRO,"Ebro Foods, S.A.",2.45B,15.90,-0.75%
+41,SCYR,"Sacyr, S.A.",2.44B,3.15,-0.50%
+42,APAM,Aperam S.A.,2.02B,27.70,
+43,NHH,"Minor Hotels Europe & Americas, S.A.",1.96B,4.44,-1.33%
+44,ENO,"Elecnor, S.A.",1.79B,20.90,-0.95%
+45,ALM,"Almirall, S.A.",1.78B,8.33,-2.40%
+46,APPS,"Applus Services, S.A.",1.64B,12.70,
+47,MEL,"Meliá Hotels International, S.A.",1.58B,7.18,-0.35%
+48,GEST,"Gestamp Automoción, S.A.",1.40B,2.45,-0.61%
+49,PHM,"Pharma Mar, S.A.",1.37B,78.00,4.28%
+50,MVC,Metrovacesa S.A.,1.33B,8.75,0.23%
+51,PRO,"Proeduca Altus, S.A.",1.28B,28.40,
+52,YGMP,"GMP Property SOCIMI, S.A.",1.26B,65.50,-0.76%
+53,LDA,"Línea Directa Aseguradora, S.A., Compañía de Seguros y Reaseguros",1.22B,1.12,0.72%
+54,CAF,"Construcciones y Auxiliar de Ferrocarriles, S.A.",1.16B,33.75,
+55,HOME,"Neinor Homes, S.A.",1.14B,15.20,-0.13%
+56,AEDAS,"Aedas Homes, S.A.",1.10B,25.40,-0.39%
+57,SLR,"Solaria Energía y Medio Ambiente, S.A.",1.09B,8.73,-0.51%
+58,FAE,"Faes Farma, S.A.",1.08B,3.49,-0.57%
+59,EAT,AmRest Holdings SE,1.06B,5.00,
+60,A3M,"Atresmedia Corporación de Medios de Comunicación, S.A.",1.06B,4.70,
+61,PSG,"Prosegur Compañía de Seguridad, S.A.",928.57M,1.74,
+62,EDR,eDreams ODIGEO S.A.,897.08M,7.62,1.33%
+63,TRE,"Técnicas Reunidas, S.A.",834.28M,10.68,-9.11%
+64,RLIA,"Realia Business, S.A.",823.26M,1.00,-1.48%
+65,CASH,"Prosegur Cash, S.A.",794.45M,0.54,0.75%
+66,GRE,"Grenergy Renovables, S.A.",774.87M,27.00,-4.09%
+67,DIA,"Distribuidora Internacional de Alimentación, S.A.",771.96M,0.01,0.75%
+68,ADX,"Audax Renovables, S.A.",734.53M,1.63,-0.85%
+69,LRE,"Lar España Real Estate SOCIMI, S.A.",690.82M,8.26,0.12%
+70,ENC,"ENCE Energía y Celulosa, S.A.",673.14M,2.77,-0.50%
+71,CBAV,"Clínica Baviera, S.A.",527.56M,33.40,1.21%
+72,R4,"Renta 4 Banco, S.A.",520.87M,12.40,-3.13%
+73,MCM,"Miquel y Costas & Miquel, S.A.",471.54M,12.35,1.23%
+74,TUB,"Tubacex, S.A.",435.96M,3.61,0.70%
+75,TLGO,,428.93M,3.51,0.43%
+76,DOM,"Global Dominion Access, S.A.",422.15M,2.84,0.89%
+77,PRS,"Promotora de Informaciones, S.A.",370.56M,0.34,
+78,ART,"Arteche Lantegi Elkartea, S.A.",367.56M,6.45,
+79,ECR,"Ercros, S.A.",327.34M,3.58,
+80,ALC,"Altia Consultores, S.A.",322.60M,4.70,1.29%
+81,ALNT,"Alantra Partners, S.A.",305.87M,8.00,
+82,GSJ,"Grupo Empresarial San José, S.A.",303.02M,4.66,1.30%
+83,COXE,"Cox Energy América, S.A.B. de C.V.",279.20M,1.60,
+84,EIDF,"Energía, Innovación y Desarrollo Fotovoltaico, S.A.",270.11M,3.89,0.39%
+85,IZER,"izertis, S.A.",263.09M,9.80,-0.20%
+86,ENER,"Ecoener, S.A.",247.57M,4.37,0.46%
+87,ATRY,"Atrys Health, S.A.",230.09M,3.03,-1.30%
+88,RJF,"Laboratorio Reig Jofre, S.A.",217.76M,2.73,0.37%
+89,ARM,"Árima Real Estate SOCIMI, S.A.",215.66M,8.30,
+90,IBG,"Iberpapel Gestión, S.A.",205.95M,18.75,-0.79%
+91,ATSI,"Aplicaciones y Tratamiento de Sistemas, S.A.",186.59M,3.74,4.47%
+92,OHLA,"Obrascón Huarte Lain, S.A.",181.99M,0.31,0.13%
+93,PRM,"Prim, S.A.",169.82M,9.98,-2.16%
+94,ISUR,"Inmobiliaria del Sur, S.A.",169.53M,8.90,-3.26%
+95,AMP,"Amper, S.A.",161.64M,0.11,-1.48%
+96,AZK,"Azkoyen, S.A.",151.69M,6.18,-0.64%
+97,ENRS,"Enerside Energy, S.A.",147.99M,3.94,-1.50%
+98,SOL,"Soltec Power Holdings, S.A.",145.29M,1.60,
+99,UBS,"Urbas Grupo Financiero, S.A.",134.55M,0.00,-3.33%
+100,YVIT,"Vitruvio Real Estate SOCIMI, S.A.",132.30M,14.40,
+101,GAM,"General de Alquiler de Maquinaria, S.A.",126.29M,1.34,2.29%
+102,AI,"Airtificial Intelligence Structures, S.A.",120.02M,0.09,-0.67%
+103,SNG,"Singular People, S.A.",118.68M,2.08,-7.14%
+104,SQRL,"Squirrel Media, S.A.",116.03M,1.30,1.56%
+105,AMEN,"Aeternal Mentis, S.A.",112.55M,8.55,
+106,MDF,"Duro Felguera, S.A.",108.45M,0.50,
+107,NXT,"Nueva Expresión Textil, S.A.",106.25M,0.31,-2.56%
+108,OLE,"Deoleo, S.A.",103.00M,0.21,-0.49%
+109,NTH,"Naturhouse Health, S.A.",101.61M,1.69,-0.30%
+110,YIPS,"Inversa Prime SOCIMI, S.A.",94.56M,1.23,0.82%
+111,TRG,"Tubos Reunidos, S.A.",89.13M,0.51,-4.48%
+112,GIGA,"Gigas Hosting, S.A.",88.69M,7.65,-4.38%
+113,NEA,"Nicolás Correa, S.A.",86.55M,7.14,0.28%
+114,ETC,"Energy Solar Tech, S.A.",81.25M,3.03,0.66%
+115,LLYC,"Llorente & Cuenca, S.A.",79.11M,7.00,
+116,MAKS,"Making Science Group, S.A.",75.21M,8.55,
+117,VOC,"Vocento, S.A.",74.65M,0.62,0.65%
+118,AGIL,"Agile Content, S.A.",69.95M,3.04,-0.65%
+119,BAIN,"Borges Agricultural & Industrial Nuts, S.A.",67.95M,2.94,
+120,LGT,"Lingotes Especiales, S.A.",66.00M,6.66,0.91%
+121,PANG,"Pangaea Oncology, S.A.",61.50M,1.79,
+122,CLR,"CLERHP Estructuras, S.A.",60.91M,4.21,-0.71%
+123,EZE,"Grupo Ezentis, S.A.",52.57M,0.11,-1.79%
+124,ALQ,"Alquiber Quality, S.A.",49.87M,9.40,
+125,NBI,"NBI Bearings Europe, S.A.",48.00M,4.00,
+126,ADZ,"Adolfo Domínguez, S.A.",46.14M,5.00,
+127,MTB,"Montebalito, S.A.",41.59M,1.30,
+128,GRI,"Griñó Ecologic, S.A.",38.87M,1.28,
+129,FACE,"Facephi Biometria, S.A.",35.89M,1.60,2.56%
+130,480S,Soluciones Cuatroochenta S.A.,31.42M,11.50,
+131,HLZ,"Holaluz-Clidom, S.A.",31.11M,1.43,0.35%
+132,TR1,"TIER 1 Technology, S.A.",28.90M,2.96,
+133,REN,"Renta Corporación Real Estate, S.A.",22.03M,0.68,-2.56%
+134,MIO,"Media Investment Optimization, S.A.",20.70M,3.18,
+135,BST,"Biotechnology Assets, S.A.",20.39M,0.32,-0.78%
+136,RIO,"Bodegas Riojanas, S.A.",16.58M,3.44,
+137,NYE,"Nyesa Valores Corporación, S.A.",15.98M,0.01,
+138,DOMO,"Domo Activos, S.A.",14.47M,1.28,
+139,COM,"Catenon, S.A.",13.40M,0.74,
+140,KOM,"Plásticos Compuestos, S.A.",12.02M,1.01,
+141,ELZ,"Asturiana de Laminados, S.A.",12.00M,0.10,
+142,END,"Endurance Motive, S.A.",11.50M,1.18,6.82%
+143,SAI,"Substrate Artificial Inteligence, S.A.",10.57M,0.11,1.43%
+144,SPH,"Profithol, S.A.",10.56M,0.57,4.43%
+145,PVA,"Pescanova, S.A.",9.94M,0.35,
+146,RBT,"Robot, S.A.",5.15M,1.83,
