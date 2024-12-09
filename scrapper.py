@@ -1,18 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Lanzamos HTTP request
-url = "https://stockanalysis.com/list/madrid-stock-exchange/"
-headers = {"User-Agent": "Mozilla/5.0"}
-response = requests.get(url, headers=headers)
+def data_scrapper(url: str = "https://stockanalysis.com/list/madrid-stock-exchange/", key_element: str = "td"):
 
-# Parseamos el contenido HTML
-soup = BeautifulSoup(response.content, "html.parser")
+    '''Dada una URL y un elemento clave (elemento de HTML, <td>, <div>, etx) extrae tomos los valores de la pagina que 
+    esten almacenados dentro de ese elemento clave y los almacena en el file "raw_data.txt", dentro de la carpeta output.''' 
 
-# Extraemos la data de los <td>
-td_values = soup.find_all("td")  # Example: extracting all <h2> tags with class "title"
+    # Lanzamos HTTP request
+    headers = {"User-Agent": "Mozilla/5.0"}
+    response = requests.get(url, headers=headers)
 
-# Step 4: Save data (optional)
-with open("output/raw_data.txt", "w") as file:
-    for td in td_values:
-        file.write(td.text + "\n")
+    # Parseamos el contenido HTML
+    soup = BeautifulSoup(response.content, "html.parser")
+
+    # Extraemos la data que este almacenada en el elemento clave
+    element_values = soup.find_all(key_element)
+
+    # Step 4: Save data (optional)
+    with open("output/raw_data.txt", "w") as file:
+        for element in element_values:
+            file.write(element.text + "\n")
