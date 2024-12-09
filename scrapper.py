@@ -16,7 +16,7 @@ def data_scrapper(url: str = "https://stockanalysis.com/list/madrid-stock-exchan
     # Extraemos la data que este almacenada en el elemento clave
     element_values = soup.find_all(key_element)
 
-    # Step 4: Save data (optional)
+    # Guardamos la data extraida
     with open("output/raw_data.txt", "w") as file:
         for element in element_values:
             file.write(element.text + "\n")
