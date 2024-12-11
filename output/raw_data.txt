@@ -1,325 +1,325 @@
 1
 ITX
 Industria de Diseño Textil, S.A.
-173.87B
-55.24
--1.04%
+170.38B
+51.30
+-6.22%
 37.16B
 2
 AIR
 Airbus SE
-122.65B
-156.76
-0.68%
+123.48B
+156.52
+0.27%
 67.40B
 3
 IBE
 Iberdrola, S.A.
-83.06B
-13.28
--1.26%
+81.95B
+13.25
+-0.15%
 45.26B
 4
 SAN
 Banco Santander, S.A.
-70.46B
-4.65
-0.18%
+70.97B
+4.68
+-0.01%
 47.79B
 5
 BBVA
 Banco Bilbao Vizcaya Argentaria, S.A.
-55.06B
-9.58
-0.29%
+55.28B
+9.60
+0.04%
 29.84B
 6
 CABK
 CaixaBank, S.A.
-38.81B
-5.37
-0.30%
+38.50B
+5.33
+-0.82%
 14.04B
 7
-AENA
-Aena S.M.E., S.A.
-30.60B
-201.20
--1.37%
-5.68B
-8
 AMS
 Amadeus IT Group, S.A.
-30.50B
-69.70
--0.43%
+30.06B
+68.92
+-0.12%
 5.96B
+8
+AENA
+Aena S.M.E., S.A.
+30.00B
+196.10
+-1.95%
+5.68B
 9
 FER
 Ferrovial SE
-29.84B
-41.00
--
+29.20B
+40.12
+-1.43%
 8.84B
 10
 TEF
 Telefónica, S.A.
-24.46B
-4.34
+24.12B
+4.28
 -
 40.57B
 11
 CLNX
 Cellnex Telecom, S.A.
-23.92B
-33.90
--0.91%
+23.44B
+33.22
+-0.95%
 4.00B
 12
-ELE
-Endesa, S.A.
-22.61B
-21.14
--1.03%
-21.67B
-13
 NTGY
 Naturgy Energy Group, S.A.
-22.60B
-23.42
--0.43%
+22.65B
+23.62
+0.17%
 19.63B
+13
+ELE
+Endesa, S.A.
+22.43B
+21.00
+-0.90%
+21.67B
 14
 MTS
 ArcelorMittal S.A.
-18.97B
-24.14
-0.42%
+19.30B
+24.41
+-0.77%
 55.84B
 15
 IAG
 International Consolidated Airlines Group S.A.
-16.68B
-3.40
--0.50%
+16.70B
+3.42
+0.59%
 31.28B
 16
 REP
 Repsol, S.A.
-13.29B
-11.36
-0.62%
+13.46B
+11.40
+-0.26%
 52.68B
 17
 ACS
 ACS, Actividades de Construcción y Servicios, S.A.
-12.22B
-48.00
--0.04%
+12.03B
+47.30
+0.13%
 39.05B
 18
 PUIG
 Puig Brands, S.A.
-10.70B
-19.45
-2.42%
+10.72B
+19.05
+0.08%
 4.49B
 19
 SAB
 Banco de Sabadell, S.A.
-10.25B
-1.91
-0.71%
+10.28B
+1.90
+-0.24%
 5.43B
 20
 RED
 Redeia Corporación, S.A.
-9.14B
-16.93
--0.12%
+9.18B
+16.84
+-1.00%
 1.94B
 21
 MAP
 Mapfre, S.A.
-7.62B
-2.49
--0.80%
+7.57B
+2.47
+0.16%
 31.11B
 22
 BKT
 Bankinter, S.A.
-6.91B
-7.69
--0.93%
+6.84B
+7.61
+-1.04%
 2.44B
 23
 ANE
 Corporación Acciona Energías Renovables, S.A.
-6.49B
+6.52B
 20.00
 2.51%
 3.67B
 24
 ANA
 Acciona, S.A.
-6.44B
-118.00
--0.25%
+6.50B
+118.20
+-1.09%
 19.84B
 25
 MRL
 MERLIN Properties SOCIMI, S.A.
-5.91B
-10.26
--2.38%
+5.73B
+10.18
+-0.78%
 491.73M
 26
 GRF
 Grifols, S.A.
-5.39B
-8.80
-2.02%
+5.54B
+8.89
+1.02%
 7.01B
 27
 FDR
 Fluidra, S.A.
-4.88B
-25.68
-2.23%
+4.84B
+25.58
+0.24%
 2.12B
 28
 GCO
 Grupo Catalana Occidente, S.A.
-4.41B
-37.40
--1.19%
+4.42B
+37.45
+-0.66%
 4.58B
 29
 FCC
 Fomento de Construcciones y Contratas, S.A.
-4.22B
-9.26
--0.22%
+4.23B
+9.30
+-
 9.56B
 30
 LOG
 Logista Integral, S.A.
-3.96B
-29.76
--0.87%
+3.90B
+29.42
+-0.34%
 12.99B
 31
-ENG
-Enagás, S.A.
-3.39B
-12.98
--0.15%
-901.17M
-32
 UNI
 Unicaja Banco, S.A.
-3.30B
-1.32
-1.07%
+3.33B
+1.31
+-0.46%
 1.61B
+32
+ENG
+Enagás, S.A.
+3.29B
+12.45
+-1.11%
+901.17M
 33
 COL
 Inmobiliaria Colonial, SOCIMI, S.A.
-3.28B
-5.48
-1.86%
+3.25B
+5.20
+-0.76%
 413.78M
 34
 ROVI
 Laboratorios Farmaceuticos Rovi, S.A.
-3.25B
+3.24B
 63.40
 -0.31%
 799.25M
 35
 VID
 Vidrala, S.A.
-3.21B
-96.40
-0.31%
+3.22B
+96.80
+0.52%
 1.68B
 36
 CIE
 CIE Automotive, S.A.
-3.07B
-25.60
--
+3.08B
+25.85
+0.39%
 4.00B
 37
 IDR
 Indra Sistemas, S.A.
-3.04B
+3.01B
 17.20
 -0.06%
 4.78B
 38
-VIS
-Viscofan, S.A.
-2.87B
-61.70
--
-1.20B
-39
 ALB
 Corporación Financiera Alba, S.A.
-2.86B
+2.88B
 47.80
 0.63%
 158.10M
+39
+VIS
+Viscofan, S.A.
+2.79B
+60.20
+0.17%
+1.20B
 40
 ACX
 Acerinox, S.A.
-2.49B
-10.23
-2.51%
+2.50B
+10.08
+0.40%
 5.62B
 41
 EBRO
 Ebro Foods, S.A.
-2.45B
-15.92
-0.13%
+2.44B
+15.84
+-0.50%
 3.13B
 42
 SCYR
 Sacyr, S.A.
-2.44B
-3.13
--0.63%
+2.42B
+3.12
+-0.32%
 4.64B
 43
 APAM
 Aperam S.A.
-2.02B
-27.70
--
+2.06B
+28.08
+-1.20%
 6.34B
 44
 NHH
 Minor Hotels Europe & Americas, S.A.
-1.96B
-4.44
--1.33%
+1.95B
+4.47
+1.59%
 2.34B
 45
-ENO
-Elecnor, S.A.
-1.79B
-20.85
--1.18%
-3.81B
-46
 ALM
 Almirall, S.A.
 1.78B
-8.38
-0.66%
+8.29
+-0.78%
 953.49M
+46
+ENO
+Elecnor, S.A.
+1.70B
+19.88
+-1.09%
+3.81B
 47
 APPS
 Applus Services, S.A.
@@ -330,30 +330,30 @@ Applus Services, S.A.
 48
 MEL
 Meliá Hotels International, S.A.
-1.58B
-7.18
--0.35%
+1.59B
+7.23
+2.48%
 1.99B
 49
 GEST
 Gestamp Automoción, S.A.
-1.40B
+1.46B
 2.56
-4.29%
+-
 12.21B
 50
 PHM
 Pharma Mar, S.A.
-1.37B
-78.00
-4.28%
+1.38B
+78.85
+-0.19%
 167.00M
 51
 MVC
 Metrovacesa S.A.
-1.33B
-8.75
-0.23%
+1.36B
+9.07
+0.78%
 649.35M
 52
 PRO
@@ -366,34 +366,34 @@ Proeduca Altus, S.A.
 YGMP
 GMP Property SOCIMI, S.A.
 1.26B
-65.50
--0.76%
+66.00
+-
 104.80M
 54
 LDA
 Línea Directa Aseguradora, S.A., Compañía de Seguros y Reaseguros
 1.22B
 1.12
-0.72%
+-0.71%
 1.11B
 55
 CAF
 Construcciones y Auxiliar de Ferrocarriles, S.A.
 1.16B
-33.75
--
+34.05
+0.59%
 4.01B
 56
 HOME
 Neinor Homes, S.A.
-1.14B
-15.16
--0.39%
+1.12B
+15.20
+0.26%
 581.48M
 57
 AEDAS
 Aedas Homes, S.A.
-1.09B
+1.11B
 25.40
 -0.39%
 1.22B
@@ -407,192 +407,192 @@ Solaria Energía y Medio Ambiente, S.A.
 59
 FAE
 Faes Farma, S.A.
-1.08B
-3.49
--0.57%
+1.06B
+3.44
+-0.72%
 504.04M
 60
-EAT
-AmRest Holdings SE
-1.06B
-5.00
--
-2.52B
-61
 A3M
 Atresmedia Corporación de Medios de Comunicación, S.A.
 1.06B
-4.74
-0.96%
+4.66
+-0.85%
 928.09M
+61
+EAT
+AmRest Holdings SE
+1.06B
+4.89
+0.82%
+2.52B
 62
 PSG
 Prosegur Compañía de Seguridad, S.A.
-928.57M
-1.74
--
+924.31M
+1.72
+-0.69%
 4.53B
 63
 EDR
 eDreams ODIGEO S.A.
-897.08M
-7.69
-2.26%
+907.82M
+7.61
+-1.04%
 643.40M
 64
 TRE
 Técnicas Reunidas, S.A.
-834.28M
-10.68
--9.11%
+819.44M
+10.33
+-1.53%
 4.11B
 65
 RLIA
 Realia Business, S.A.
-823.26M
-1.00
--1.48%
+815.14M
+1.01
+0.50%
 161.98M
 66
 CASH
 Prosegur Cash, S.A.
-794.45M
-0.53
--1.30%
+807.72M
+0.55
+3.01%
 1.89B
 67
 GRE
 Grenergy Renovables, S.A.
-774.87M
-27.70
-2.59%
+797.83M
+27.80
+0.36%
 326.54M
 68
 DIA
 Distribuidora Internacional de Alimentación, S.A.
-771.96M
+789.37M
 0.01
-0.75%
+2.21%
 5.90B
 69
 ADX
 Audax Renovables, S.A.
-734.53M
+730.02M
 1.63
 -0.85%
 1.90B
 70
 LRE
 Lar España Real Estate SOCIMI, S.A.
-690.82M
-8.27
-0.12%
+689.99M
+8.25
+-0.24%
 93.64M
 71
 ENC
 ENCE Energía y Celulosa, S.A.
-673.14M
-2.79
-0.65%
+683.34M
+2.81
+0.86%
 879.86M
 72
 CBAV
 Clínica Baviera, S.A.
 527.56M
-33.40
-1.21%
+33.00
+-
 252.47M
 73
 R4
 Renta 4 Banco, S.A.
 520.87M
-12.40
--3.13%
+12.80
+-
 216.54M
 74
 MCM
 Miquel y Costas & Miquel, S.A.
-465.81M
-12.35
-1.23%
+481.08M
+12.20
+-1.21%
 306.88M
 75
-TUB
-Tubacex, S.A.
-435.96M
-3.55
--0.98%
-781.64M
-76
 TLGO
 -
-428.93M
-3.51
-0.43%
+441.22M
+3.56
+0.42%
 712.10M
+76
+TUB
+Tubacex, S.A.
+437.18M
+3.56
+0.14%
+781.64M
 77
 DOM
 Global Dominion Access, S.A.
-422.15M
-2.84
-0.89%
+416.15M
+2.80
+-1.06%
 1.19B
 78
 PRS
 Promotora de Informaciones, S.A.
-377.06M
+373.81M
 0.34
 -
 901.85M
 79
 ART
 Arteche Lantegi Elkartea, S.A.
-367.56M
+370.41M
 6.45
 -
 445.11M
 80
 ECR
 Ercros, S.A.
-327.34M
+322.77M
 3.58
 -
 656.52M
 81
 ALC
 Altia Consultores, S.A.
-322.60M
-4.70
-1.29%
+315.74M
+4.60
+4.07%
 253.98M
 82
+GSJ
+Grupo Empresarial San José, S.A.
+308.22M
+4.66
+1.30%
+1.51B
+83
 ALNT
 Alantra Partners, S.A.
 305.87M
 8.00
--
+-0.74%
 169.49M
-83
-GSJ
-Grupo Empresarial San José, S.A.
-303.02M
-4.66
-1.30%
-1.51B
 84
+EIDF
+Energía, Innovación y Desarrollo Fotovoltaico, S.A.
+284.07M
+4.07
+2.26%
+152.92M
+85
 COXE
 Cox Energy América, S.A.B. de C.V.
 279.20M
 1.56
 -2.50%
 208.81M
-85
-EIDF
-Energía, Innovación y Desarrollo Fotovoltaico, S.A.
-270.11M
-3.89
-0.39%
-152.92M
 86
 IZER
 izertis, S.A.
@@ -603,23 +603,23 @@ izertis, S.A.
 87
 ENER
 Ecoener, S.A.
-247.57M
-4.37
-0.46%
+248.71M
+4.44
+1.60%
 77.36M
 88
 ATRY
 Atrys Health, S.A.
-230.09M
-3.05
-0.66%
+227.81M
+3.00
+-1.64%
 211.11M
 89
 RJF
 Laboratorio Reig Jofre, S.A.
-217.76M
-2.73
-0.37%
+218.56M
+2.72
+-
 333.69M
 90
 ARM
@@ -631,59 +631,59 @@ ARM
 91
 IBG
 Iberpapel Gestión, S.A.
-205.95M
-18.75
--0.79%
+202.68M
+18.60
+-0.80%
 242.94M
 92
 ATSI
 Aplicaciones y Tratamiento de Sistemas, S.A.
-186.59M
+197.57M
 3.74
 4.47%
 185.63M
 93
 OHLA
 Obrascón Huarte Lain, S.A.
-181.99M
-0.31
-1.49%
+186.48M
+0.32
+0.89%
 3.52B
 94
 PRM
 Prim, S.A.
-169.82M
-10.00
-0.20%
+171.01M
+10.05
+-
 227.57M
 95
 ISUR
 Inmobiliaria del Sur, S.A.
-169.53M
-9.25
-0.54%
-151.61M
+162.16M
+8.80
+-4.86%
+142.76M
 96
 AMP
 Amper, S.A.
-161.64M
+161.04M
 0.11
--
+-0.74%
 391.33M
 97
-AZK
-Azkoyen, S.A.
-151.69M
-6.18
--0.64%
-193.37M
-98
 ENRS
 Enerside Energy, S.A.
-147.99M
-3.94
--1.50%
+150.24M
+4.00
+1.52%
 19.77M
+98
+AZK
+Azkoyen, S.A.
+149.73M
+6.14
+-0.97%
+193.37M
 99
 SOL
 Soltec Power Holdings, S.A.
@@ -696,7 +696,7 @@ UBS
 Urbas Grupo Financiero, S.A.
 134.55M
 0.00
--3.33%
+-
 202.12M
 101
 YVIT
@@ -708,30 +708,30 @@ Vitruvio Real Estate SOCIMI, S.A.
 102
 GAM
 General de Alquiler de Maquinaria, S.A.
-126.29M
+125.35M
 1.33
 -0.75%
 280.86M
 103
 AI
 Airtificial Intelligence Structures, S.A.
-120.02M
+121.76M
 0.09
--0.56%
+2.01%
 100.35M
 104
-SNG
-Singular People, S.A.
-118.68M
-2.08
--7.14%
-103.19M
+NXT
+Nueva Expresión Textil, S.A.
+118.44M
+0.35
+1.47%
+47.68M
 105
 SQRL
 Squirrel Media, S.A.
-116.03M
-1.30
-1.56%
+115.12M
+1.28
+0.79%
 137.07M
 106
 AMEN
@@ -741,107 +741,107 @@ Aeternal Mentis, S.A.
 -
 1.85M
 107
+SNG
+Singular People, S.A.
+111.26M
+2.12
+-0.93%
+103.19M
+108
 MDF
 Duro Felguera, S.A.
 108.45M
 0.50
 -
 297.22M
-108
-NXT
-Nueva Expresión Textil, S.A.
-106.25M
-0.31
--2.56%
-47.68M
 109
-OLE
-Deoleo, S.A.
-103.00M
-0.21
--0.49%
-938.72M
-110
 NTH
 Naturhouse Health, S.A.
-101.61M
+101.91M
 1.70
 -
 49.90M
+110
+OLE
+Deoleo, S.A.
+101.00M
+0.20
+-0.50%
+938.72M
 111
 YIPS
 Inversa Prime SOCIMI, S.A.
-94.56M
+95.33M
 1.23
 0.82%
 3.08M
 112
 TRG
 Tubos Reunidos, S.A.
-89.13M
+90.00M
 0.52
-1.76%
+-0.77%
 374.81M
 113
-GIGA
-Gigas Hosting, S.A.
-88.69M
-7.65
--4.38%
-73.99M
-114
 NEA
 Nicolás Correa, S.A.
-86.55M
-7.20
-1.12%
+89.47M
+7.36
+2.22%
 120.44M
+114
+GIGA
+Gigas Hosting, S.A.
+89.27M
+7.70
+0.65%
+73.99M
 115
 ETC
 Energy Solar Tech, S.A.
-81.25M
-3.03
-0.66%
+82.59M
+3.08
+0.98%
 53.09M
 116
+VOC
+Vocento, S.A.
+81.64M
+0.68
+9.35%
+352.35M
+117
 LLYC
 Llorente & Cuenca, S.A.
 79.11M
 7.00
 -
 95.87M
-117
+118
 MAKS
 Making Science Group, S.A.
 75.21M
 8.55
 -
 227.99M
-118
-VOC
-Vocento, S.A.
-74.65M
-0.62
-0.65%
-352.35M
 119
 AGIL
 Agile Content, S.A.
-69.95M
+70.41M
 3.04
 -0.65%
 98.08M
 120
 BAIN
 Borges Agricultural & Industrial Nuts, S.A.
-67.95M
+67.49M
 2.92
--0.68%
+-
 117.02M
 121
 LGT
 Lingotes Especiales, S.A.
-66.00M
+66.40M
 6.66
 0.91%
 96.65M
@@ -855,38 +855,38 @@ Pangaea Oncology, S.A.
 123
 CLR
 CLERHP Estructuras, S.A.
-60.91M
+60.33M
 4.21
 -0.71%
 19.46M
 124
 EZE
 Grupo Ezentis, S.A.
-52.57M
+51.13M
 0.11
--1.82%
+-0.93%
 13.92M
 125
 ALQ
 Alquiber Quality, S.A.
-49.87M
-9.40
--
+50.14M
+9.45
+0.53%
 136.39M
 126
+ADZ
+Adolfo Domínguez, S.A.
+49.09M
+5.28
+-0.75%
+131.72M
+127
 NBI
 NBI Bearings Europe, S.A.
 48.00M
 4.00
 -
 54.43M
-127
-ADZ
-Adolfo Domínguez, S.A.
-46.14M
-5.00
--
-131.72M
 128
 MTB
 Montebalito, S.A.
@@ -905,8 +905,8 @@ Griñó Ecologic, S.A.
 FACE
 Facephi Biometria, S.A.
 35.89M
-1.60
--
+1.61
+0.31%
 31.53M
 131
 480S
@@ -918,7 +918,7 @@ Soluciones Cuatroochenta S.A.
 132
 HLZ
 Holaluz-Clidom, S.A.
-31.11M
+30.01M
 1.43
 0.35%
 553.96M
@@ -932,37 +932,37 @@ TIER 1 Technology, S.A.
 134
 REN
 Renta Corporación Real Estate, S.A.
-23.52M
+23.64M
 0.73
-6.73%
+0.55%
 19.32M
 135
+BST
+Biotechnology Assets, S.A.
+21.61M
+0.34
+4.35%
+3.37M
+136
 MIO
 Media Investment Optimization, S.A.
 20.70M
 3.18
 -
 64.82M
-136
-BST
-Biotechnology Assets, S.A.
-20.39M
-0.32
--0.78%
-3.37M
 137
 RIO
 Bodegas Riojanas, S.A.
 16.58M
-3.44
--
+3.48
+1.16%
 16.70M
 138
 NYE
 Nyesa Valores Corporación, S.A.
 15.98M
 0.01
--
+2.04%
 2.99M
 139
 DOMO
@@ -974,9 +974,9 @@ Domo Activos, S.A.
 140
 COM
 Catenon, S.A.
-13.49M
-0.74
--
+13.22M
+0.73
+-2.01%
 11.50M
 141
 KOM
@@ -995,30 +995,30 @@ Asturiana de Laminados, S.A.
 143
 END
 Endurance Motive, S.A.
-11.50M
-1.18
-6.82%
+11.89M
+1.22
+1.25%
 -
 144
 SAI
 Substrate Artificial Inteligence, S.A.
-10.72M
+10.70M
 0.11
 -4.23%
 8.57M
 145
 SPH
 Profithol, S.A.
-10.56M
-0.57
-4.43%
+10.52M
+0.54
+-3.23%
 44.29M
 146
 PVA
 Pescanova, S.A.
-9.94M
+9.91M
 0.34
--1.16%
+-0.58%
 -
 147
 RBT
@@ -1030,7 +1030,7 @@ Robot, S.A.
 148
 CITY
 Club De Futbol Intercity Sad
-327.32K
+290.27K
 0.47
--11.51%
+-
 -
